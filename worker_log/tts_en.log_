@@ -1,0 +1,15 @@
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Traceback (most recent call last):
+  File "/project/OML/titanic/TTS/FastSpeech2/synthesize.py", line 591, in <module>
+    synthesize(model, args.restore_step, configs, vocoder, batchs, control_values)
+NameError: name 'batchs' is not defined
+Permission denied, please try again.
+Permission denied, please try again.
+Permission denied, please try again.
+Permission denied, please try again.
+  File "/home/namnguyen/PycharmProjects/my_first_flask_app/process/synthesize.py", line 372
+    print(3ewrewrew)
+           ^
+SyntaxError: invalid syntax
+Permission denied, please try again.
